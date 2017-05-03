@@ -1,4 +1,6 @@
 # V-Rep Java E-Puck robot interface
+_Student project_
+
 _This code provide tools for command and get status E-Puck robot in V-Rep simulation tool._
 
 
